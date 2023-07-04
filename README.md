@@ -22,3 +22,4 @@ Object에서 final이 아닌 메서드는 모두 oveeriding을 염두에 두고 
 -   [클래스와 멤버의 접근 권한을 최소화하라](/chapter%203/item15.md)
 -   [public 클래스에서는 public 필드가 아닌 접근자 메소드를 사용하라](/chapter%203/item16.md)
 -   변경 가능성을 최소화 하라
+-   [상속보다는 컴포지션을 사용하라](chapter%203/item18.md)
