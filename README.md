@@ -23,3 +23,4 @@ Object에서 final이 아닌 메서드는 모두 oveeriding을 염두에 두고 
 -   [public 클래스에서는 public 필드가 아닌 접근자 메소드를 사용하라](/chapter%203/item16.md)
 -   변경 가능성을 최소화 하라
 -   [상속보다는 컴포지션을 사용하라](chapter%203/item18.md)
+-   [상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지해라](chapter%203/item19.md)
