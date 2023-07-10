@@ -1,5 +1,7 @@
 ## try-finally 보다는 try-with-resources를 사용하라
 
+---
+
 코드가 간결해지고 예외 정보도 훨씬 유용
 
 close()메소드를 호출해 직접 닫아줘야 하는 자원들
