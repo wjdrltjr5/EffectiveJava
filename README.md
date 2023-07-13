@@ -27,3 +27,4 @@ Object에서 final이 아닌 메서드는 모두 oveeriding을 염두에 두고 
 -   [추상클래스 보다는 인터페이스를 우선해라](chapter%203/item20.md)
 -   [인터페이스는 구현하는 쪽을 생각해 설계하라.](chapter%203/item21.md)
 -   [인터페이스는 타입을 정의하는 용도로만 사용해라](chapter%203/item22.md)
+-   [태그 달린 클래스보다는 클래스 계층구조를 활용하라](chapter%203/item23.md)
